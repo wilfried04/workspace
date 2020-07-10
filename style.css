@@ -46,8 +46,6 @@ content4{
   background-color: #F4A460;
 }
 
-
-
 .sample {
   height:100px;
   background-color: skyblue;
@@ -60,7 +58,7 @@ content4{
 }
 .sample1 {
   background-color: black;
-  color: red;
+  color: blue;
   position: static;
   top: 10px;
   left: 10px;
